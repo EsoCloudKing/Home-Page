@@ -9,7 +9,7 @@ I hold a degree in **computer science** and a plethora of **cyber/cloud security
 My journey in CyberSecurity has led me to develop a strong passion for Cloud Security, and I am now eager to transition into this field, specifically aiming to join a Cloud/On-Prem Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-Cloud Security, Information Security and Governance, Implementing Network Security, Network Traffic Monitoring and Attack Detection, Windows, Linux, Azure, Microsoft Defender for Cloud, SIEM Implementation and Log Analysis, Endpoint Security, Application Security, Data Security, Storage security and Encryption.
+Cloud Sys Administration, Cloud Security, Information Security and Governance, Implementing Network Security, Network Traffic Monitoring and Attack Detection, Windows, Linux, Azure, Microsoft Defender for Cloud, SIEM Implementation and Log Analysis, Endpoint Security, Application Security, Data Security, Storage security and Encryption.
 
 ## Certifications
 
