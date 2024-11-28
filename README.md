@@ -18,3 +18,5 @@ Cloud Sys Administration, Cloud Security, Information Security and Governance, I
 <img src="https://img.shields.io/badge/AZ500-%20Microsoft%20Azure%20Security%20Engineer Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 
 ## Projects
+
+- <a href="https://github.com/EsoCloudKing/PROJECT-01/blob/main/README.md">Implementing a Secure Hub-and-Spoke Virtual Network Architecture Design for Cloud and On-Premises Environment</a>
