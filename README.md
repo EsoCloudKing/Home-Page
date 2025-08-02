@@ -3,13 +3,13 @@
 
 ## About Me
 
-I hold a degree in **computer science** and a plethora of **cyber/cloud security** certifications. This has led me to take a keen interest in technology and a dedication to analysing and solving complex problems.
+I hold a degree in Computer Science and multiple industry-recognized certifications in cybersecurity and cloud security. Combined with hands-on experience in SOC operations, cloud infrastructure, and incident response, this background has fueled my passion for technology and sharpened my ability to analyze and solve complex security challenges.
 
 ## My Objective
-My journey in CyberSecurity has led me to develop a strong passion for Cloud Security, and I am now eager to transition into this field, specifically aiming to join a Cyber Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in cybersecurity has sparked a deep passion for cloud security, driving me to specialize in protecting cloud-based environments. I am now focused on advancing my career within a Security Operations Center (SOC), with a strong interest in contributing as a Tier 1 Analyst and further developing my expertise in real-time threat detection and incident response.
 
 ## Skills
-Cloud Sys Administration, Cloud Security, Information Security and Governance, IAM, Implementing Network Security, Network Traffic Monitoring and Attack Detection, Windows, Linux, Azure, Microsoft Defender for Cloud, SIEM Implementation and Log Analysis, Endpoint Security, Application Security, Data Security, Storage security and Encryption.
+Cloud Sys Administration, Cloud Security, Alert triaging and Insidece Response, Vulnerability Management and Remediation, Information Security and Governance, IAM, Implementing Network Security, Network Traffic Monitoring and Attack Detection, Windows, Linux, Azure, Microsoft Defender for Cloud, SIEM Implementation and Log Analysis, KQL, Endpoint Security, Application Security, Data Security, Storage security and Encryption, Deployment with Terrarform, Team Player, Effective Time Management, Good Communication skills
 
 ## Certifications
 
@@ -23,6 +23,6 @@ Cloud Sys Administration, Cloud Security, Information Security and Governance, I
 
 - <a href="https://github.com/EsoCloudKing/PROJECT-02-Cloud-Soc-Lab-with-SIEM-Sentinel">Cloud SOC Lab for Advanced Security: Threat Detection and Response with SIEM (Microsoft Sentinel) Implementation</a>
 
-- <a href="https://github.com/EsoCloudKing/PROJECT-LAB-03-Vulnerability-Management">Vulnerability Management Lab Utilizing Tenable Solutions</a>
+- <a href="https://github.com/EsoCloudKing/PROJECT-LAB-03-Vulnerability-Management">Vulnerability Management And Remediation Lab, Utilizing Tenable Solutions</a>
 
-- <a href="https://github.com/EsoCloudKing/PROJECT-LAB-04-Honeypot-In-The-Cloud">DEPLOYING A MULTI HONEYPOT PLATFORM IN THE CLOUD USING T-POT</a>
+- <a href="https://github.com/EsoCloudKing/PROJECT-LAB-04-Honeypot-In-The-Cloud">Deployed a Multi Honeypot Platform In The Cloud Using T-Pot</a>
