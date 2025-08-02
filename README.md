@@ -20,3 +20,9 @@ Cloud Sys Administration, Cloud Security, Information Security and Governance, I
 ## Projects
 
 - <a href="https://github.com/EsoCloudKing/PROJECT-01/blob/main/README.md">Implementing a Secure Hub-and-Spoke Virtual Network Architecture Design for Cloud and On-Premises Environment</a>
+
+- <a href="https://github.com/EsoCloudKing/PROJECT-02-Cloud-Soc-Lab-with-SIEM-Sentinel">Cloud SOC Lab for Advanced Security: Threat Detection and Response with SIEM (Microsoft Sentinel) Implementation</a>
+
+- <a href="https://github.com/EsoCloudKing/PROJECT-LAB-03-Vulnerability-Management">Vulnerability Management Lab Utilizing Tenable Solutions</a>
+
+- <a href="https://github.com/EsoCloudKing/PROJECT-LAB-04-Honeypot-In-The-Cloud">DEPLOYING A MULTI HONEYPOT PLATFORM IN THE CLOUD USING T-POT</a>
